@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-7-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-1_day-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-8-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-2_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 007
+## 🔴 Latest build — Day 008
 
-**[MCP Auditor — Audit Your MCP Server Config Before Your Agent Does](https://github.com/kbipul/mcp-auditor)** — Paste your Claude Desktop / Cursor / VS Code mcpServers config and get an instant security report: hardcoded secrets, unpinned remote execution, root filesystem access, and dangerous capability combos like filesystem+network exfiltration paths — 100% in your browser.
+**[Prompt Router — Stop Sending Every Prompt to Your Most Expensive Model](https://github.com/kbipul/prompt-router)** — Paste a day's worth of prompts and watch each one get routed to the cheapest model tier that can actually handle it — an embedding + feature classifier running 100% in your browser, with a live savings ledger.
 
-▶ **[Try it live](https://kbipul.github.io/mcp-auditor/)**
+▶ **[Try it live](https://kbipul.github.io/prompt-router/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 008 | [Prompt Router — Stop Sending Every Prompt to Your Most Expensive Model](https://github.com/kbipul/prompt-router) | Paste a day's worth of prompts and watch each one get routed to the cheapest model tier that can actually handle it — an embedding + feature classifier running 100% in your browser, with a live savings ledger. | [Live demo](https://kbipul.github.io/prompt-router/) | 2026-07-14 |
 | 007 | [MCP Auditor — Audit Your MCP Server Config Before Your Agent Does](https://github.com/kbipul/mcp-auditor) | Paste your Claude Desktop / Cursor / VS Code mcpServers config and get an instant security report: hardcoded secrets, unpinned remote execution, root filesystem access, and dangerous capability combos like filesystem+network exfiltration paths — 100% in your browser. | [Live demo](https://kbipul.github.io/mcp-auditor/) | 2026-07-13 |
 | 006 | [SkillScan — X-ray an AI Agent Skill Before You Install It](https://github.com/kbipul/skill-scan) | Paste any agent skill file and get an instant security report: prompt injection, data exfiltration, dangerous commands, permission creep and context cost — 100% in your browser. | [Live demo](https://kbipul.github.io/skill-scan/) | 2026-07-13 |
 | 005 | [Similar or Not — Watch Meaning Become Geometry](https://github.com/kbipul/similar-or-not) | Type a handful of sentences and see them embed, cluster on a 2D map, and light up a cosine-similarity heatmap — an embeddings playground running 100% in your browser. | [Live demo](https://kbipul.github.io/similar-or-not/) | 2026-07-11 |
