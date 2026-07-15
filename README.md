@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-8-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-2_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-9-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-3_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 008
+## 🔴 Latest build — Day 009
 
-**[Prompt Router — Stop Sending Every Prompt to Your Most Expensive Model](https://github.com/kbipul/prompt-router)** — Paste a day's worth of prompts and watch each one get routed to the cheapest model tier that can actually handle it — an embedding + feature classifier running 100% in your browser, with a live savings ledger.
+**[Open Model Passport — Can You Actually Ship This Model?](https://github.com/kbipul/open-model-passport)** — Pick an AI model, declare what you intend to do with it, and get an instant shipping-clearance report — licence, weights, residency and EU AI Act exposure, with a source link on every claim.
 
-▶ **[Try it live](https://kbipul.github.io/prompt-router/)**
+▶ **[Try it live](https://kbipul.github.io/open-model-passport/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 009 | [Open Model Passport — Can You Actually Ship This Model?](https://github.com/kbipul/open-model-passport) | Pick an AI model, declare what you intend to do with it, and get an instant shipping-clearance report — licence, weights, residency and EU AI Act exposure, with a source link on every claim. | [Live demo](https://kbipul.github.io/open-model-passport/) | 2026-07-15 |
 | 008 | [Prompt Router — Stop Sending Every Prompt to Your Most Expensive Model](https://github.com/kbipul/prompt-router) | Paste a day's worth of prompts and watch each one get routed to the cheapest model tier that can actually handle it — an embedding + feature classifier running 100% in your browser, with a live savings ledger. | [Live demo](https://kbipul.github.io/prompt-router/) | 2026-07-14 |
 | 007 | [MCP Auditor — Audit Your MCP Server Config Before Your Agent Does](https://github.com/kbipul/mcp-auditor) | Paste your Claude Desktop / Cursor / VS Code mcpServers config and get an instant security report: hardcoded secrets, unpinned remote execution, root filesystem access, and dangerous capability combos like filesystem+network exfiltration paths — 100% in your browser. | [Live demo](https://kbipul.github.io/mcp-auditor/) | 2026-07-13 |
 | 006 | [SkillScan — X-ray an AI Agent Skill Before You Install It](https://github.com/kbipul/skill-scan) | Paste any agent skill file and get an instant security report: prompt injection, data exfiltration, dangerous commands, permission creep and context cost — 100% in your browser. | [Live demo](https://kbipul.github.io/skill-scan/) | 2026-07-13 |
