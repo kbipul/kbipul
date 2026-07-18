@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-10-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-1_day-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-11-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-2_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 010
+## 🔴 Latest build — Day 011
 
-**[Blast Radius — Simulate What That Command Destroys](https://github.com/kbipul/blast-radius)** — Paste the command your agent wants to run and watch it destroy a virtual machine instead of yours — what dies, what comes back, and a safer way to say it.
+**[Prompt Compressor — What Token Savings Actually Cost You](https://github.com/kbipul/prompt-compressor)** — The most-starred AI coding skill on GitHub promises 65% fewer tokens. Paste your own text and measure what it actually saves — and what meaning it quietly drops.
 
-▶ **[Try it live](https://kbipul.github.io/blast-radius/)**
+▶ **[Try it live](https://kbipul.github.io/prompt-compressor/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 011 | [Prompt Compressor — What Token Savings Actually Cost You](https://github.com/kbipul/prompt-compressor) | The most-starred AI coding skill on GitHub promises 65% fewer tokens. Paste your own text and measure what it actually saves — and what meaning it quietly drops. | [Live demo](https://kbipul.github.io/prompt-compressor/) | 2026-07-18 |
 | 010 | [Blast Radius — Simulate What That Command Destroys](https://github.com/kbipul/blast-radius) | Paste the command your agent wants to run and watch it destroy a virtual machine instead of yours — what dies, what comes back, and a safer way to say it. | [Live demo](https://kbipul.github.io/blast-radius/) | 2026-07-17 |
 | 009 | [Open Model Passport — Can You Actually Ship This Model?](https://github.com/kbipul/open-model-passport) | Pick an AI model, declare what you intend to do with it, and get an instant shipping-clearance report — licence, weights, residency and EU AI Act exposure, with a source link on every claim. | [Live demo](https://kbipul.github.io/open-model-passport/) | 2026-07-15 |
 | 008 | [Prompt Router — Stop Sending Every Prompt to Your Most Expensive Model](https://github.com/kbipul/prompt-router) | Paste a day's worth of prompts and watch each one get routed to the cheapest model tier that can actually handle it — an embedding + feature classifier running 100% in your browser, with a live savings ledger. | [Live demo](https://kbipul.github.io/prompt-router/) | 2026-07-14 |
