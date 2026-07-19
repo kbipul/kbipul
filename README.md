@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-11-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-2_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-12-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-3_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 011
+## 🔴 Latest build — Day 012
 
-**[Prompt Compressor — What Token Savings Actually Cost You](https://github.com/kbipul/prompt-compressor)** — The most-starred AI coding skill on GitHub promises 65% fewer tokens. Paste your own text and measure what it actually saves — and what meaning it quietly drops.
+**[Context Window Packer — Fit the Best Context Into N Tokens](https://github.com/kbipul/context-packer)** — Inkling just shipped a 1M-token window — but you still can't afford to fill it with junk. Paste your sources, set a token budget, and watch a 0/1-knapsack packer choose the highest-value context that fits.
 
-▶ **[Try it live](https://kbipul.github.io/prompt-compressor/)**
+▶ **[Try it live](https://kbipul.github.io/context-packer/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 012 | [Context Window Packer — Fit the Best Context Into N Tokens](https://github.com/kbipul/context-packer) | Inkling just shipped a 1M-token window — but you still can't afford to fill it with junk. Paste your sources, set a token budget, and watch a 0/1-knapsack packer choose the highest-value context that fits. | [Live demo](https://kbipul.github.io/context-packer/) | 2026-07-19 |
 | 011 | [Prompt Compressor — What Token Savings Actually Cost You](https://github.com/kbipul/prompt-compressor) | The most-starred AI coding skill on GitHub promises 65% fewer tokens. Paste your own text and measure what it actually saves — and what meaning it quietly drops. | [Live demo](https://kbipul.github.io/prompt-compressor/) | 2026-07-18 |
 | 010 | [Blast Radius — Simulate What That Command Destroys](https://github.com/kbipul/blast-radius) | Paste the command your agent wants to run and watch it destroy a virtual machine instead of yours — what dies, what comes back, and a safer way to say it. | [Live demo](https://kbipul.github.io/blast-radius/) | 2026-07-17 |
 | 009 | [Open Model Passport — Can You Actually Ship This Model?](https://github.com/kbipul/open-model-passport) | Pick an AI model, declare what you intend to do with it, and get an instant shipping-clearance report — licence, weights, residency and EU AI Act exposure, with a source link on every claim. | [Live demo](https://kbipul.github.io/open-model-passport/) | 2026-07-15 |
