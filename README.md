@@ -8,21 +8,23 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-12-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-3_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-14-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-5_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 012
+## 🔴 Latest build — Day 014
 
-**[Context Window Packer — Fit the Best Context Into N Tokens](https://github.com/kbipul/context-packer)** — Inkling just shipped a 1M-token window — but you still can't afford to fill it with junk. Paste your sources, set a token budget, and watch a 0/1-knapsack packer choose the highest-value context that fits.
+**[Bhasha Detect — Identify India's 22 Scheduled Languages In Your Browser](https://github.com/kbipul/bhasha-detect)** — Paste text in any of India's 22 scheduled languages — plus Hinglish — and watch it get identified by Unicode script and character n-grams, with an honest confusion-matrix explorer. 100% client-side, no API key.
 
-▶ **[Try it live](https://kbipul.github.io/context-packer/)**
+▶ **[Try it live](https://kbipul.github.io/bhasha-detect/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 014 | [Bhasha Detect — Identify India's 22 Scheduled Languages In Your Browser](https://github.com/kbipul/bhasha-detect) | Paste text in any of India's 22 scheduled languages — plus Hinglish — and watch it get identified by Unicode script and character n-grams, with an honest confusion-matrix explorer. 100% client-side, no API key. | [Live demo](https://kbipul.github.io/bhasha-detect/) | 2026-07-21 |
+| 013 | [Hybrid Search — BM25 + Vectors, Fused with RRF](https://github.com/kbipul/hybrid-search-ts) | Watch a keyword ranker and a semantic ranker disagree on the same query, then fuse them with Reciprocal Rank Fusion into a list that is rarely wrong on either — 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/hybrid-search-ts/) | 2026-07-20 |
 | 012 | [Context Window Packer — Fit the Best Context Into N Tokens](https://github.com/kbipul/context-packer) | Inkling just shipped a 1M-token window — but you still can't afford to fill it with junk. Paste your sources, set a token budget, and watch a 0/1-knapsack packer choose the highest-value context that fits. | [Live demo](https://kbipul.github.io/context-packer/) | 2026-07-19 |
 | 011 | [Prompt Compressor — What Token Savings Actually Cost You](https://github.com/kbipul/prompt-compressor) | The most-starred AI coding skill on GitHub promises 65% fewer tokens. Paste your own text and measure what it actually saves — and what meaning it quietly drops. | [Live demo](https://kbipul.github.io/prompt-compressor/) | 2026-07-18 |
 | 010 | [Blast Radius — Simulate What That Command Destroys](https://github.com/kbipul/blast-radius) | Paste the command your agent wants to run and watch it destroy a virtual machine instead of yours — what dies, what comes back, and a safer way to say it. | [Live demo](https://kbipul.github.io/blast-radius/) | 2026-07-17 |
