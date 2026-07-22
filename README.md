@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-14-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-5_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-15-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-6_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 014
+## 🔴 Latest build — Day 015
 
-**[Bhasha Detect — Identify India's 22 Scheduled Languages In Your Browser](https://github.com/kbipul/bhasha-detect)** — Paste text in any of India's 22 scheduled languages — plus Hinglish — and watch it get identified by Unicode script and character n-grams, with an honest confusion-matrix explorer. 100% client-side, no API key.
+**[Will It Fit? — Can You Actually Run That Open-Weight Model?](https://github.com/kbipul/will-it-fit)** — Pick an open-weight LLM (Kimi K3, LongCat-2.0, GPT-OSS…), a quantization, and your GPU or Azure VM — instantly see if it fits in VRAM and how fast it decodes. 100% in your browser, no API key.
 
-▶ **[Try it live](https://kbipul.github.io/bhasha-detect/)**
+▶ **[Try it live](https://kbipul.github.io/will-it-fit/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 015 | [Will It Fit? — Can You Actually Run That Open-Weight Model?](https://github.com/kbipul/will-it-fit) | Pick an open-weight LLM (Kimi K3, LongCat-2.0, GPT-OSS…), a quantization, and your GPU or Azure VM — instantly see if it fits in VRAM and how fast it decodes. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/will-it-fit/) | 2026-07-22 |
 | 014 | [Bhasha Detect — Identify India's 22 Scheduled Languages In Your Browser](https://github.com/kbipul/bhasha-detect) | Paste text in any of India's 22 scheduled languages — plus Hinglish — and watch it get identified by Unicode script and character n-grams, with an honest confusion-matrix explorer. 100% client-side, no API key. | [Live demo](https://kbipul.github.io/bhasha-detect/) | 2026-07-21 |
 | 013 | [Hybrid Search — BM25 + Vectors, Fused with RRF](https://github.com/kbipul/hybrid-search-ts) | Watch a keyword ranker and a semantic ranker disagree on the same query, then fuse them with Reciprocal Rank Fusion into a list that is rarely wrong on either — 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/hybrid-search-ts/) | 2026-07-20 |
 | 012 | [Context Window Packer — Fit the Best Context Into N Tokens](https://github.com/kbipul/context-packer) | Inkling just shipped a 1M-token window — but you still can't afford to fill it with junk. Paste your sources, set a token budget, and watch a 0/1-knapsack packer choose the highest-value context that fits. | [Live demo](https://kbipul.github.io/context-packer/) | 2026-07-19 |
