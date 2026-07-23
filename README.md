@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-15-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-6_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-16-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-7_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 015
+## 🔴 Latest build — Day 016
 
-**[Will It Fit? — Can You Actually Run That Open-Weight Model?](https://github.com/kbipul/will-it-fit)** — Pick an open-weight LLM (Kimi K3, LongCat-2.0, GPT-OSS…), a quantization, and your GPU or Azure VM — instantly see if it fits in VRAM and how fast it decodes. 100% in your browser, no API key.
+**[Tool Caller — Validate & Repair an LLM's Function Calls Before They Run](https://github.com/kbipul/tool-caller-ts)** — Paste the tool call a model just produced and watch it get checked against the tool's JSON Schema — hallucinated tool names, wrong types, bad enums, malformed JSON — then auto-repaired into a call that would actually run. 100% in your browser, no API key.
 
-▶ **[Try it live](https://kbipul.github.io/will-it-fit/)**
+▶ **[Try it live](https://kbipul.github.io/tool-caller-ts/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 016 | [Tool Caller — Validate & Repair an LLM's Function Calls Before They Run](https://github.com/kbipul/tool-caller-ts) | Paste the tool call a model just produced and watch it get checked against the tool's JSON Schema — hallucinated tool names, wrong types, bad enums, malformed JSON — then auto-repaired into a call that would actually run. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/tool-caller-ts/) | 2026-07-23 |
 | 015 | [Will It Fit? — Can You Actually Run That Open-Weight Model?](https://github.com/kbipul/will-it-fit) | Pick an open-weight LLM (Kimi K3, LongCat-2.0, GPT-OSS…), a quantization, and your GPU or Azure VM — instantly see if it fits in VRAM and how fast it decodes. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/will-it-fit/) | 2026-07-22 |
 | 014 | [Bhasha Detect — Identify India's 22 Scheduled Languages In Your Browser](https://github.com/kbipul/bhasha-detect) | Paste text in any of India's 22 scheduled languages — plus Hinglish — and watch it get identified by Unicode script and character n-grams, with an honest confusion-matrix explorer. 100% client-side, no API key. | [Live demo](https://kbipul.github.io/bhasha-detect/) | 2026-07-21 |
 | 013 | [Hybrid Search — BM25 + Vectors, Fused with RRF](https://github.com/kbipul/hybrid-search-ts) | Watch a keyword ranker and a semantic ranker disagree on the same query, then fuse them with Reciprocal Rank Fusion into a list that is rarely wrong on either — 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/hybrid-search-ts/) | 2026-07-20 |
