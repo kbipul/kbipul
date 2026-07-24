@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-16-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-7_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-17-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-8_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 016
+## 🔴 Latest build — Day 017
 
-**[Tool Caller — Validate & Repair an LLM's Function Calls Before They Run](https://github.com/kbipul/tool-caller-ts)** — Paste the tool call a model just produced and watch it get checked against the tool's JSON Schema — hallucinated tool names, wrong types, bad enums, malformed JSON — then auto-repaired into a call that would actually run. 100% in your browser, no API key.
+**[Agent Scratchpad — Watch a ReAct Agent Think, and Catch Where It Breaks](https://github.com/kbipul/agent-scratchpad)** — Replay an LLM agent's Thought → Action → Observation loop step by step and get an instant loop-health report — stuck loops, oscillation, out-of-toolset calls, ungrounded answers, error thrash — 100% in your browser, no API key.
 
-▶ **[Try it live](https://kbipul.github.io/tool-caller-ts/)**
+▶ **[Try it live](https://kbipul.github.io/agent-scratchpad/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 017 | [Agent Scratchpad — Watch a ReAct Agent Think, and Catch Where It Breaks](https://github.com/kbipul/agent-scratchpad) | Replay an LLM agent's Thought → Action → Observation loop step by step and get an instant loop-health report — stuck loops, oscillation, out-of-toolset calls, ungrounded answers, error thrash — 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/agent-scratchpad/) | 2026-07-24 |
 | 016 | [Tool Caller — Validate & Repair an LLM's Function Calls Before They Run](https://github.com/kbipul/tool-caller-ts) | Paste the tool call a model just produced and watch it get checked against the tool's JSON Schema — hallucinated tool names, wrong types, bad enums, malformed JSON — then auto-repaired into a call that would actually run. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/tool-caller-ts/) | 2026-07-23 |
 | 015 | [Will It Fit? — Can You Actually Run That Open-Weight Model?](https://github.com/kbipul/will-it-fit) | Pick an open-weight LLM (Kimi K3, LongCat-2.0, GPT-OSS…), a quantization, and your GPU or Azure VM — instantly see if it fits in VRAM and how fast it decodes. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/will-it-fit/) | 2026-07-22 |
 | 014 | [Bhasha Detect — Identify India's 22 Scheduled Languages In Your Browser](https://github.com/kbipul/bhasha-detect) | Paste text in any of India's 22 scheduled languages — plus Hinglish — and watch it get identified by Unicode script and character n-grams, with an honest confusion-matrix explorer. 100% client-side, no API key. | [Live demo](https://kbipul.github.io/bhasha-detect/) | 2026-07-21 |
