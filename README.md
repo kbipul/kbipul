@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-18-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-9_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-19-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-10_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 018
+## 🔴 Latest build — Day 019
 
-**[Handoff — Inspect a Multi-Agent Run for Coordination Failures](https://github.com/kbipul/handoff-inspector)** — Paste a multi-agent orchestration trace (supervisor + sub-agents) and watch it on a swimlane timeline while it flags the coordination failures single-agent tools miss — dropped handoffs, delegation loops, context lost between agents, duplicated work. 100% in your browser, no API key.
+**[Agent Memory Inspector — Audit What Your Agent Remembers](https://github.com/kbipul/agent-memory-inspector)** — Microsoft Foundry just shipped editable agent memory to production. Paste an agent's memory store (procedural / user / session scopes) and get an instant hygiene report — expired TTLs, contradictions, scope leaks, candidate PII, duplicates — plus a retrieval simulation showing which memories a query would actually recall. 100% in your browser, no API key.
 
-▶ **[Try it live](https://kbipul.github.io/handoff-inspector/)**
+▶ **[Try it live](https://kbipul.github.io/agent-memory-inspector/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 019 | [Agent Memory Inspector — Audit What Your Agent Remembers](https://github.com/kbipul/agent-memory-inspector) | Microsoft Foundry just shipped editable agent memory to production. Paste an agent's memory store (procedural / user / session scopes) and get an instant hygiene report — expired TTLs, contradictions, scope leaks, candidate PII, duplicates — plus a retrieval simulation showing which memories a query would actually recall. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/agent-memory-inspector/) | 2026-07-26 |
 | 018 | [Handoff — Inspect a Multi-Agent Run for Coordination Failures](https://github.com/kbipul/handoff-inspector) | Paste a multi-agent orchestration trace (supervisor + sub-agents) and watch it on a swimlane timeline while it flags the coordination failures single-agent tools miss — dropped handoffs, delegation loops, context lost between agents, duplicated work. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/handoff-inspector/) | 2026-07-25 |
 | 017 | [Agent Scratchpad — Watch a ReAct Agent Think, and Catch Where It Breaks](https://github.com/kbipul/agent-scratchpad) | Replay an LLM agent's Thought → Action → Observation loop step by step and get an instant loop-health report — stuck loops, oscillation, out-of-toolset calls, ungrounded answers, error thrash — 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/agent-scratchpad/) | 2026-07-24 |
 | 016 | [Tool Caller — Validate & Repair an LLM's Function Calls Before They Run](https://github.com/kbipul/tool-caller-ts) | Paste the tool call a model just produced and watch it get checked against the tool's JSON Schema — hallucinated tool names, wrong types, bad enums, malformed JSON — then auto-repaired into a call that would actually run. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/tool-caller-ts/) | 2026-07-23 |
