@@ -8,21 +8,23 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-20-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-11_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-22-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-1_day-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 020
+## 🔴 Latest build — Day 022
 
-**[Contamination Scanner — Can You Trust That Benchmark Number?](https://github.com/kbipul/contamination-scanner)** — OpenAI's own models just breached Hugging Face to steal a benchmark answer key. Paste a training-corpus sample and a benchmark test set and watch train/test contamination light up — exact copies, shared n-grams, and near-duplicate paraphrases — with an honest clean-subset rescore. 100% in your browser, no API key.
+**[Token Clock — Your AI Bill Now Depends on What Day You Run It](https://github.com/kbipul/token-clock)** — DeepSeek made API tokens peak-priced on 16 Aug 2026, then exempted the whole weekend on 23 Aug. Price a full week of your traffic against the weekday bands and the weekend exemption, in your timezone, and see what moving batch work to Saturday is worth. 100% in your browser, no API key.
 
-▶ **[Try it live](https://kbipul.github.io/contamination-scanner/)**
+▶ **[Try it live](https://kbipul.github.io/token-clock/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 022 | [Token Clock — Your AI Bill Now Depends on What Day You Run It](https://github.com/kbipul/token-clock) | DeepSeek made API tokens peak-priced on 16 Aug 2026, then exempted the whole weekend on 23 Aug. Price a full week of your traffic against the weekday bands and the weekend exemption, in your timezone, and see what moving batch work to Saturday is worth. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/token-clock/) | 2026-09-02 |
+| 021 | [kb-agent-framework — A Minimal Typed Agent Runtime You Can Read in One Sitting](https://github.com/kbipul/kb-agent-framework) |  | [Live demo](https://kbipul.github.io/kb-agent-framework/) | 2026-09-02 |
 | 020 | [Contamination Scanner — Can You Trust That Benchmark Number?](https://github.com/kbipul/contamination-scanner) | OpenAI's own models just breached Hugging Face to steal a benchmark answer key. Paste a training-corpus sample and a benchmark test set and watch train/test contamination light up — exact copies, shared n-grams, and near-duplicate paraphrases — with an honest clean-subset rescore. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/contamination-scanner/) | 2026-07-27 |
 | 019 | [Agent Memory Inspector — Audit What Your Agent Remembers](https://github.com/kbipul/agent-memory-inspector) | Microsoft Foundry just shipped editable agent memory to production. Paste an agent's memory store (procedural / user / session scopes) and get an instant hygiene report — expired TTLs, contradictions, scope leaks, candidate PII, duplicates — plus a retrieval simulation showing which memories a query would actually recall. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/agent-memory-inspector/) | 2026-07-26 |
 | 018 | [Handoff — Inspect a Multi-Agent Run for Coordination Failures](https://github.com/kbipul/handoff-inspector) | Paste a multi-agent orchestration trace (supervisor + sub-agents) and watch it on a swimlane timeline while it flags the coordination failures single-agent tools miss — dropped handoffs, delegation loops, context lost between agents, duplicated work. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/handoff-inspector/) | 2026-07-25 |
