@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-22-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-1_day-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-23-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-2_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 022
+## 🔴 Latest build — Day 023
 
-**[Token Clock — Your AI Bill Now Depends on What Day You Run It](https://github.com/kbipul/token-clock)** — DeepSeek made API tokens peak-priced on 16 Aug 2026, then exempted the whole weekend on 23 Aug. Price a full week of your traffic against the weekday bands and the weekend exemption, in your timezone, and see what moving batch work to Saturday is worth. 100% in your browser, no API key.
+**[Escape Sim — Would Your AI Containment Survive Astra?](https://github.com/kbipul/escape-sim)** — 
 
-▶ **[Try it live](https://kbipul.github.io/token-clock/)**
+▶ **[Try it live](https://kbipul.github.io/escape-sim/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 023 | [Escape Sim — Would Your AI Containment Survive Astra?](https://github.com/kbipul/escape-sim) |  | [Live demo](https://kbipul.github.io/escape-sim/) | 2026-09-03 |
 | 022 | [Token Clock — Your AI Bill Now Depends on What Day You Run It](https://github.com/kbipul/token-clock) | DeepSeek made API tokens peak-priced on 16 Aug 2026, then exempted the whole weekend on 23 Aug. Price a full week of your traffic against the weekday bands and the weekend exemption, in your timezone, and see what moving batch work to Saturday is worth. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/token-clock/) | 2026-09-02 |
 | 021 | [kb-agent-framework — A Minimal Typed Agent Runtime You Can Read in One Sitting](https://github.com/kbipul/kb-agent-framework) |  | [Live demo](https://kbipul.github.io/kb-agent-framework/) | 2026-09-02 |
 | 020 | [Contamination Scanner — Can You Trust That Benchmark Number?](https://github.com/kbipul/contamination-scanner) | OpenAI's own models just breached Hugging Face to steal a benchmark answer key. Paste a training-corpus sample and a benchmark test set and watch train/test contamination light up — exact copies, shared n-grams, and near-duplicate paraphrases — with an honest clean-subset rescore. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/contamination-scanner/) | 2026-07-27 |
