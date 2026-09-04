@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-23-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-2_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-24-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-3_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 023
+## 🔴 Latest build — Day 024
 
-**[Escape Sim — Would Your AI Containment Survive Astra?](https://github.com/kbipul/escape-sim)** — 
+**[Cache Cliff — On Fable 5.1 a Cache Miss Costs 50× a Hit](https://github.com/kbipul/cache-cliff)** — Claude Fable 5.1 cut cache reads 75% on 1 Sep 2026. Lay out your prompt stack and find the twelve tokens stranding twenty-four thousand.
 
-▶ **[Try it live](https://kbipul.github.io/escape-sim/)**
+▶ **[Try it live](https://kbipul.github.io/cache-cliff/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 024 | [Cache Cliff — On Fable 5.1 a Cache Miss Costs 50× a Hit](https://github.com/kbipul/cache-cliff) | Claude Fable 5.1 cut cache reads 75% on 1 Sep 2026. Lay out your prompt stack and find the twelve tokens stranding twenty-four thousand. | [Live demo](https://kbipul.github.io/cache-cliff/) | 2026-09-04 |
 | 023 | [Escape Sim — Would Your AI Containment Survive Astra?](https://github.com/kbipul/escape-sim) |  | [Live demo](https://kbipul.github.io/escape-sim/) | 2026-09-03 |
 | 022 | [Token Clock — Your AI Bill Now Depends on What Day You Run It](https://github.com/kbipul/token-clock) | DeepSeek made API tokens peak-priced on 16 Aug 2026, then exempted the whole weekend on 23 Aug. Price a full week of your traffic against the weekday bands and the weekend exemption, in your timezone, and see what moving batch work to Saturday is worth. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/token-clock/) | 2026-09-02 |
 | 021 | [kb-agent-framework — A Minimal Typed Agent Runtime You Can Read in One Sitting](https://github.com/kbipul/kb-agent-framework) |  | [Live demo](https://kbipul.github.io/kb-agent-framework/) | 2026-09-02 |
