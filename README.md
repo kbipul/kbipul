@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-24-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-3_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-25-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-4_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 024
+## 🔴 Latest build — Day 025
 
-**[Cache Cliff — On Fable 5.1 a Cache Miss Costs 50× a Hit](https://github.com/kbipul/cache-cliff)** — Claude Fable 5.1 cut cache reads 75% on 1 Sep 2026. Lay out your prompt stack and find the twelve tokens stranding twenty-four thousand.
+**[PAIR Planner — Your Fleet Has Eight GPUs. The Router Can See Two.](https://github.com/kbipul/pair-planner)** — NVIDIA shipped PAIR on 3 Sep 2026 to turn every idle GPU on your network into one inference cluster. Lay out your actual machines and find out how many of them the scheduler is allowed to use — and what the rest are costing you in seconds.
 
-▶ **[Try it live](https://kbipul.github.io/cache-cliff/)**
+▶ **[Try it live](https://kbipul.github.io/pair-planner/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 025 | [PAIR Planner — Your Fleet Has Eight GPUs. The Router Can See Two.](https://github.com/kbipul/pair-planner) | NVIDIA shipped PAIR on 3 Sep 2026 to turn every idle GPU on your network into one inference cluster. Lay out your actual machines and find out how many of them the scheduler is allowed to use — and what the rest are costing you in seconds. | [Live demo](https://kbipul.github.io/pair-planner/) | 2026-09-05 |
 | 024 | [Cache Cliff — On Fable 5.1 a Cache Miss Costs 50× a Hit](https://github.com/kbipul/cache-cliff) | Claude Fable 5.1 cut cache reads 75% on 1 Sep 2026. Lay out your prompt stack and find the twelve tokens stranding twenty-four thousand. | [Live demo](https://kbipul.github.io/cache-cliff/) | 2026-09-04 |
 | 023 | [Escape Sim — Would Your AI Containment Survive Astra?](https://github.com/kbipul/escape-sim) |  | [Live demo](https://kbipul.github.io/escape-sim/) | 2026-09-03 |
 | 022 | [Token Clock — Your AI Bill Now Depends on What Day You Run It](https://github.com/kbipul/token-clock) | DeepSeek made API tokens peak-priced on 16 Aug 2026, then exempted the whole weekend on 23 Aug. Price a full week of your traffic against the weekday bands and the weekend exemption, in your timezone, and see what moving batch work to Saturday is worth. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/token-clock/) | 2026-09-02 |
