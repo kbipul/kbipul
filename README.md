@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-25-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-4_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-26-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-5_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 025
+## 🔴 Latest build — Day 026
 
-**[PAIR Planner — Your Fleet Has Eight GPUs. The Router Can See Two.](https://github.com/kbipul/pair-planner)** — NVIDIA shipped PAIR on 3 Sep 2026 to turn every idle GPU on your network into one inference cluster. Lay out your actual machines and find out how many of them the scheduler is allowed to use — and what the rest are costing you in seconds.
+**[RAG Injection Scanner — What Did Your Retriever Just Hand the Model?](https://github.com/kbipul/rag-injection-scanner)** — Agent stacks now ingest whole corpora into context automatically — OpenViking and ai-memory both trended on 6 Sep 2026 for unifying memory, RAG and skills into one self-evolving store. Paste the chunks your retriever returned and see which of them are talking to the model instead of to you.
 
-▶ **[Try it live](https://kbipul.github.io/pair-planner/)**
+▶ **[Try it live](https://kbipul.github.io/rag-injection-scanner/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 026 | [RAG Injection Scanner — What Did Your Retriever Just Hand the Model?](https://github.com/kbipul/rag-injection-scanner) | Agent stacks now ingest whole corpora into context automatically — OpenViking and ai-memory both trended on 6 Sep 2026 for unifying memory, RAG and skills into one self-evolving store. Paste the chunks your retriever returned and see which of them are talking to the model instead of to you. | [Live demo](https://kbipul.github.io/rag-injection-scanner/) | 2026-09-06 |
 | 025 | [PAIR Planner — Your Fleet Has Eight GPUs. The Router Can See Two.](https://github.com/kbipul/pair-planner) | NVIDIA shipped PAIR on 3 Sep 2026 to turn every idle GPU on your network into one inference cluster. Lay out your actual machines and find out how many of them the scheduler is allowed to use — and what the rest are costing you in seconds. | [Live demo](https://kbipul.github.io/pair-planner/) | 2026-09-05 |
 | 024 | [Cache Cliff — On Fable 5.1 a Cache Miss Costs 50× a Hit](https://github.com/kbipul/cache-cliff) | Claude Fable 5.1 cut cache reads 75% on 1 Sep 2026. Lay out your prompt stack and find the twelve tokens stranding twenty-four thousand. | [Live demo](https://kbipul.github.io/cache-cliff/) | 2026-09-04 |
 | 023 | [Escape Sim — Would Your AI Containment Survive Astra?](https://github.com/kbipul/escape-sim) |  | [Live demo](https://kbipul.github.io/escape-sim/) | 2026-09-03 |
