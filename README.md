@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-27-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-6_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-28-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-7_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 027
+## 🔴 Latest build — Day 028
 
-**[Silent Reasoning — What Breaks When the Model Stops Thinking Out Loud](https://github.com/kbipul/silent-reasoning)** — GPT-6 Astra shipped on 3 Sep 2026 reasoning in latent space instead of writing its chain of thought down, and OpenAI's own system card puts its rate of successfully hiding that reasoning from a monitor at 60.9% against 16.1% for GPT-5.6 Sol. Set your safety stack, drag the visibility dial, and watch which of your controls stop working.
+**[Indic PII Redactor — Aadhaar, PAN and GSTIN Detection That Never Leaves the Browser](https://github.com/kbipul/indic-pii-redactor)** — India's DPDP Rules put Phase 1 obligations on the calendar for November 2026, and the first thing every team hits is that you cannot send an Aadhaar number to a cloud API to have it removed. This does the detection in your tab — Verhoeff-validated Aadhaar, mod-36 GSTIN, PAN, UPI, IFSC, mobile, PIN, vehicle and voter ID, in Latin and Devanagari digits — and grades every hit into certain, likely or possible instead of pretending to a confidence it does not have.
 
-▶ **[Try it live](https://kbipul.github.io/silent-reasoning/)**
+▶ **[Try it live](https://kbipul.github.io/indic-pii-redactor/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 028 | [Indic PII Redactor — Aadhaar, PAN and GSTIN Detection That Never Leaves the Browser](https://github.com/kbipul/indic-pii-redactor) | India's DPDP Rules put Phase 1 obligations on the calendar for November 2026, and the first thing every team hits is that you cannot send an Aadhaar number to a cloud API to have it removed. This does the detection in your tab — Verhoeff-validated Aadhaar, mod-36 GSTIN, PAN, UPI, IFSC, mobile, PIN, vehicle and voter ID, in Latin and Devanagari digits — and grades every hit into certain, likely or possible instead of pretending to a confidence it does not have. | [Live demo](https://kbipul.github.io/indic-pii-redactor/) | 2026-09-08 |
 | 027 | [Silent Reasoning — What Breaks When the Model Stops Thinking Out Loud](https://github.com/kbipul/silent-reasoning) | GPT-6 Astra shipped on 3 Sep 2026 reasoning in latent space instead of writing its chain of thought down, and OpenAI's own system card puts its rate of successfully hiding that reasoning from a monitor at 60.9% against 16.1% for GPT-5.6 Sol. Set your safety stack, drag the visibility dial, and watch which of your controls stop working. | [Live demo](https://kbipul.github.io/silent-reasoning/) | 2026-09-07 |
 | 026 | [RAG Injection Scanner — What Did Your Retriever Just Hand the Model?](https://github.com/kbipul/rag-injection-scanner) | Agent stacks now ingest whole corpora into context automatically — OpenViking and ai-memory both trended on 6 Sep 2026 for unifying memory, RAG and skills into one self-evolving store. Paste the chunks your retriever returned and see which of them are talking to the model instead of to you. | [Live demo](https://kbipul.github.io/rag-injection-scanner/) | 2026-09-06 |
 | 025 | [PAIR Planner — Your Fleet Has Eight GPUs. The Router Can See Two.](https://github.com/kbipul/pair-planner) | NVIDIA shipped PAIR on 3 Sep 2026 to turn every idle GPU on your network into one inference cluster. Lay out your actual machines and find out how many of them the scheduler is allowed to use — and what the rest are costing you in seconds. | [Live demo](https://kbipul.github.io/pair-planner/) | 2026-09-05 |
