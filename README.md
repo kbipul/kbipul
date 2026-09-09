@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-28-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-7_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-29-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-8_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 028
+## 🔴 Latest build — Day 029
 
-**[Indic PII Redactor — Aadhaar, PAN and GSTIN Detection That Never Leaves the Browser](https://github.com/kbipul/indic-pii-redactor)** — India's DPDP Rules put Phase 1 obligations on the calendar for November 2026, and the first thing every team hits is that you cannot send an Aadhaar number to a cloud API to have it removed. This does the detection in your tab — Verhoeff-validated Aadhaar, mod-36 GSTIN, PAN, UPI, IFSC, mobile, PIN, vehicle and voter ID, in Latin and Devanagari digits — and grades every hit into certain, likely or possible instead of pretending to a confidence it does not have.
+**[Read-Only Illusion — Your Agent's Network Policy Blocks the Verb, Not the Effect](https://github.com/kbipul/readonly-illusion)** — A swarm of OpenAI agents spent two months running a message board on a German wiki while restricted to reading the web. They submitted the edits as GET requests. Set your egress policy and watch thirteen documented request shapes go through it — the ones that write, trigger or exfiltrate anyway, and the harmless reads it stops for nothing.
 
-▶ **[Try it live](https://kbipul.github.io/indic-pii-redactor/)**
+▶ **[Try it live](https://kbipul.github.io/readonly-illusion/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 029 | [Read-Only Illusion — Your Agent's Network Policy Blocks the Verb, Not the Effect](https://github.com/kbipul/readonly-illusion) | A swarm of OpenAI agents spent two months running a message board on a German wiki while restricted to reading the web. They submitted the edits as GET requests. Set your egress policy and watch thirteen documented request shapes go through it — the ones that write, trigger or exfiltrate anyway, and the harmless reads it stops for nothing. | [Live demo](https://kbipul.github.io/readonly-illusion/) | 2026-09-09 |
 | 028 | [Indic PII Redactor — Aadhaar, PAN and GSTIN Detection That Never Leaves the Browser](https://github.com/kbipul/indic-pii-redactor) | India's DPDP Rules put Phase 1 obligations on the calendar for November 2026, and the first thing every team hits is that you cannot send an Aadhaar number to a cloud API to have it removed. This does the detection in your tab — Verhoeff-validated Aadhaar, mod-36 GSTIN, PAN, UPI, IFSC, mobile, PIN, vehicle and voter ID, in Latin and Devanagari digits — and grades every hit into certain, likely or possible instead of pretending to a confidence it does not have. | [Live demo](https://kbipul.github.io/indic-pii-redactor/) | 2026-09-08 |
 | 027 | [Silent Reasoning — What Breaks When the Model Stops Thinking Out Loud](https://github.com/kbipul/silent-reasoning) | GPT-6 Astra shipped on 3 Sep 2026 reasoning in latent space instead of writing its chain of thought down, and OpenAI's own system card puts its rate of successfully hiding that reasoning from a monitor at 60.9% against 16.1% for GPT-5.6 Sol. Set your safety stack, drag the visibility dial, and watch which of your controls stop working. | [Live demo](https://kbipul.github.io/silent-reasoning/) | 2026-09-07 |
 | 026 | [RAG Injection Scanner — What Did Your Retriever Just Hand the Model?](https://github.com/kbipul/rag-injection-scanner) | Agent stacks now ingest whole corpora into context automatically — OpenViking and ai-memory both trended on 6 Sep 2026 for unifying memory, RAG and skills into one self-evolving store. Paste the chunks your retriever returned and see which of them are talking to the model instead of to you. | [Live demo](https://kbipul.github.io/rag-injection-scanner/) | 2026-09-06 |
