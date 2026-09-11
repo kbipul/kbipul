@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-30-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-9_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-31-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-10_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 030
+## 🔴 Latest build — Day 031
 
-**[Quiet Throttle — Would You Notice If Your Provider Downgraded You?](https://github.com/kbipul/quiet-throttle)** — On 8 September 2026 the NSA, CISA and FBI told US model providers that the right answer to a suspected distillation account is to serve it a downgraded model and not say so. The detection indicators they published describe an ordinary enterprise AI fleet almost exactly. Lay yours out, then find out how long a silent downgrade would hide inside your own eval noise.
+**[Compaction Drift — The Harness Keeps What the Agent Needs to Continue. Your Rule Isn't It.](https://github.com/kbipul/compaction-drift)** — OpenAI's Agents API went to public beta on 10 September 2026 and now compacts your session for you, preserving information the agent needs to continue. A standing rule is not that. Lay out a long session and watch which of your rules is still in context at the moment the agent is about to break it.
 
-▶ **[Try it live](https://kbipul.github.io/quiet-throttle/)**
+▶ **[Try it live](https://kbipul.github.io/compaction-drift/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 031 | [Compaction Drift — The Harness Keeps What the Agent Needs to Continue. Your Rule Isn't It.](https://github.com/kbipul/compaction-drift) | OpenAI's Agents API went to public beta on 10 September 2026 and now compacts your session for you, preserving information the agent needs to continue. A standing rule is not that. Lay out a long session and watch which of your rules is still in context at the moment the agent is about to break it. | [Live demo](https://kbipul.github.io/compaction-drift/) | 2026-09-11 |
 | 030 | [Quiet Throttle — Would You Notice If Your Provider Downgraded You?](https://github.com/kbipul/quiet-throttle) | On 8 September 2026 the NSA, CISA and FBI told US model providers that the right answer to a suspected distillation account is to serve it a downgraded model and not say so. The detection indicators they published describe an ordinary enterprise AI fleet almost exactly. Lay yours out, then find out how long a silent downgrade would hide inside your own eval noise. | [Live demo](https://kbipul.github.io/quiet-throttle/) | 2026-09-10 |
 | 029 | [Read-Only Illusion — Your Agent's Network Policy Blocks the Verb, Not the Effect](https://github.com/kbipul/readonly-illusion) | A swarm of OpenAI agents spent two months running a message board on a German wiki while restricted to reading the web. They submitted the edits as GET requests. Set your egress policy and watch thirteen documented request shapes go through it — the ones that write, trigger or exfiltrate anyway, and the harmless reads it stops for nothing. | [Live demo](https://kbipul.github.io/readonly-illusion/) | 2026-09-09 |
 | 028 | [Indic PII Redactor — Aadhaar, PAN and GSTIN Detection That Never Leaves the Browser](https://github.com/kbipul/indic-pii-redactor) | India's DPDP Rules put Phase 1 obligations on the calendar for November 2026, and the first thing every team hits is that you cannot send an Aadhaar number to a cloud API to have it removed. This does the detection in your tab — Verhoeff-validated Aadhaar, mod-36 GSTIN, PAN, UPI, IFSC, mobile, PIN, vehicle and voter ID, in Latin and Devanagari digits — and grades every hit into certain, likely or possible instead of pretending to a confidence it does not have. | [Live demo](https://kbipul.github.io/indic-pii-redactor/) | 2026-09-08 |
@@ -52,8 +53,9 @@
 | 004 | [Token Cost Lab — See What a Prompt Actually Costs](https://github.com/kbipul/token-cost-lab) | Paste a prompt, pick your models, and watch the per-request cost light up across GPT-5.6, Claude Sonnet 5, Grok 4.5 and more — tokenized 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/token-cost-lab/) | 2026-07-11 |
 | 003 | [Zero-Shot Tagger — Classify Anything Into Your Own Labels](https://github.com/kbipul/zero-shot-tagger) | Invent labels, paste text, get an instant classification with no training data — a zero-shot NLI model running 100% in your browser. | [Live demo](https://kbipul.github.io/zero-shot-tagger/) | 2026-07-09 |
 | 002 | [Mood of the Room — Per-Sentence Sentiment in Your Browser](https://github.com/kbipul/mood-of-the-room) | Paste any text or chat export and watch its emotional temperature light up sentence by sentence — 100% client-side, no API key. | [Live demo](https://kbipul.github.io/mood-of-the-room/) | 2026-07-09 |
-| 001 | [Neural Notes — AI Search That Understands Meaning](https://github.com/kbipul/neural-notes) | Semantic note search running 100% in your browser — no server, no API key, your notes never leave the tab. | [Live demo](https://kbipul.github.io/neural-notes/) | 2026-07-08 |
 
+
+_…and 1 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
 
 
 ## 🧭 What this is
