@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-31-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-10_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-32-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-11_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 031
+## 🔴 Latest build — Day 032
 
-**[Compaction Drift — The Harness Keeps What the Agent Needs to Continue. Your Rule Isn't It.](https://github.com/kbipul/compaction-drift)** — OpenAI's Agents API went to public beta on 10 September 2026 and now compacts your session for you, preserving information the agent needs to continue. A standing rule is not that. Lay out a long session and watch which of your rules is still in context at the moment the agent is about to break it.
+**[Burial Depth — How Far Into the Answer Is the Answer?](https://github.com/kbipul/burial-depth)** — 
 
-▶ **[Try it live](https://kbipul.github.io/compaction-drift/)**
+▶ **[Try it live](https://kbipul.github.io/burial-depth/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 032 | [Burial Depth — How Far Into the Answer Is the Answer?](https://github.com/kbipul/burial-depth) |  | [Live demo](https://kbipul.github.io/burial-depth/) | 2026-09-12 |
 | 031 | [Compaction Drift — The Harness Keeps What the Agent Needs to Continue. Your Rule Isn't It.](https://github.com/kbipul/compaction-drift) | OpenAI's Agents API went to public beta on 10 September 2026 and now compacts your session for you, preserving information the agent needs to continue. A standing rule is not that. Lay out a long session and watch which of your rules is still in context at the moment the agent is about to break it. | [Live demo](https://kbipul.github.io/compaction-drift/) | 2026-09-11 |
 | 030 | [Quiet Throttle — Would You Notice If Your Provider Downgraded You?](https://github.com/kbipul/quiet-throttle) | On 8 September 2026 the NSA, CISA and FBI told US model providers that the right answer to a suspected distillation account is to serve it a downgraded model and not say so. The detection indicators they published describe an ordinary enterprise AI fleet almost exactly. Lay yours out, then find out how long a silent downgrade would hide inside your own eval noise. | [Live demo](https://kbipul.github.io/quiet-throttle/) | 2026-09-10 |
 | 029 | [Read-Only Illusion — Your Agent's Network Policy Blocks the Verb, Not the Effect](https://github.com/kbipul/readonly-illusion) | A swarm of OpenAI agents spent two months running a message board on a German wiki while restricted to reading the web. They submitted the edits as GET requests. Set your egress policy and watch thirteen documented request shapes go through it — the ones that write, trigger or exfiltrate anyway, and the harmless reads it stops for nothing. | [Live demo](https://kbipul.github.io/readonly-illusion/) | 2026-09-09 |
@@ -52,10 +53,9 @@
 | 005 | [Similar or Not — Watch Meaning Become Geometry](https://github.com/kbipul/similar-or-not) | Type a handful of sentences and see them embed, cluster on a 2D map, and light up a cosine-similarity heatmap — an embeddings playground running 100% in your browser. | [Live demo](https://kbipul.github.io/similar-or-not/) | 2026-07-11 |
 | 004 | [Token Cost Lab — See What a Prompt Actually Costs](https://github.com/kbipul/token-cost-lab) | Paste a prompt, pick your models, and watch the per-request cost light up across GPT-5.6, Claude Sonnet 5, Grok 4.5 and more — tokenized 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/token-cost-lab/) | 2026-07-11 |
 | 003 | [Zero-Shot Tagger — Classify Anything Into Your Own Labels](https://github.com/kbipul/zero-shot-tagger) | Invent labels, paste text, get an instant classification with no training data — a zero-shot NLI model running 100% in your browser. | [Live demo](https://kbipul.github.io/zero-shot-tagger/) | 2026-07-09 |
-| 002 | [Mood of the Room — Per-Sentence Sentiment in Your Browser](https://github.com/kbipul/mood-of-the-room) | Paste any text or chat export and watch its emotional temperature light up sentence by sentence — 100% client-side, no API key. | [Live demo](https://kbipul.github.io/mood-of-the-room/) | 2026-07-09 |
 
 
-_…and 1 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
+_…and 2 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
 
 
 ## 🧭 What this is
