@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-33-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-12_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-34-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-13_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 033
+## 🔴 Latest build — Day 034
 
-**[Second Tenant — Is Someone Else Spending Your API Key?](https://github.com/kbipul/second-tenant)** — 
+**[Harness Tell — Every Hub Request Says Which Agent Runs You. Sometimes It's Just Your Terminal.](https://github.com/kbipul/harness-tell)** — Since 10 September 2026, huggingface_hub stamps agent/<harness> on every request to the Hub — decided by a list the client fetches from the Hub each day, not by code you can audit, and matched, for one entry, on your terminal emulator. Lay out your environment and see what leaves the process, in order, and which of the three kill switches actually stops it.
 
-▶ **[Try it live](https://kbipul.github.io/second-tenant/)**
+▶ **[Try it live](https://kbipul.github.io/harness-tell/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 034 | [Harness Tell — Every Hub Request Says Which Agent Runs You. Sometimes It's Just Your Terminal.](https://github.com/kbipul/harness-tell) | Since 10 September 2026, huggingface_hub stamps agent/<harness> on every request to the Hub — decided by a list the client fetches from the Hub each day, not by code you can audit, and matched, for one entry, on your terminal emulator. Lay out your environment and see what leaves the process, in order, and which of the three kill switches actually stops it. | [Live demo](https://kbipul.github.io/harness-tell/) | 2026-09-14 |
 | 033 | [Second Tenant — Is Someone Else Spending Your API Key?](https://github.com/kbipul/second-tenant) |  | [Live demo](https://kbipul.github.io/second-tenant/) | 2026-09-13 |
 | 032 | [Burial Depth — How Far Into the Answer Is the Answer?](https://github.com/kbipul/burial-depth) |  | [Live demo](https://kbipul.github.io/burial-depth/) | 2026-09-12 |
 | 031 | [Compaction Drift — The Harness Keeps What the Agent Needs to Continue. Your Rule Isn't It.](https://github.com/kbipul/compaction-drift) | OpenAI's Agents API went to public beta on 10 September 2026 and now compacts your session for you, preserving information the agent needs to continue. A standing rule is not that. Lay out a long session and watch which of your rules is still in context at the moment the agent is about to break it. | [Live demo](https://kbipul.github.io/compaction-drift/) | 2026-09-11 |
@@ -52,10 +53,9 @@
 | 007 | [MCP Auditor — Audit Your MCP Server Config Before Your Agent Does](https://github.com/kbipul/mcp-auditor) | Paste your Claude Desktop / Cursor / VS Code mcpServers config and get an instant security report: hardcoded secrets, unpinned remote execution, root filesystem access, and dangerous capability combos like filesystem+network exfiltration paths — 100% in your browser. | [Live demo](https://kbipul.github.io/mcp-auditor/) | 2026-07-13 |
 | 006 | [SkillScan — X-ray an AI Agent Skill Before You Install It](https://github.com/kbipul/skill-scan) | Paste any agent skill file and get an instant security report: prompt injection, data exfiltration, dangerous commands, permission creep and context cost — 100% in your browser. | [Live demo](https://kbipul.github.io/skill-scan/) | 2026-07-13 |
 | 005 | [Similar or Not — Watch Meaning Become Geometry](https://github.com/kbipul/similar-or-not) | Type a handful of sentences and see them embed, cluster on a 2D map, and light up a cosine-similarity heatmap — an embeddings playground running 100% in your browser. | [Live demo](https://kbipul.github.io/similar-or-not/) | 2026-07-11 |
-| 004 | [Token Cost Lab — See What a Prompt Actually Costs](https://github.com/kbipul/token-cost-lab) | Paste a prompt, pick your models, and watch the per-request cost light up across GPT-5.6, Claude Sonnet 5, Grok 4.5 and more — tokenized 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/token-cost-lab/) | 2026-07-11 |
 
 
-_…and 3 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
+_…and 4 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
 
 
 ## 🧭 What this is
