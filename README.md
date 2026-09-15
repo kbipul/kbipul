@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-35-9B0000?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-36-9B0000?style=for-the-badge)
 ![Current streak](https://img.shields.io/badge/current_streak-14_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 035
+## 🔴 Latest build — Day 036
 
-**[Conduct Gap — The Rules Are Written Down. Which Ones Could You Ever Catch a Violation Of?](https://github.com/kbipul/conduct-gap)** — Microsoft published a Code of Conduct for its MAI models on 14 September 2026 and opened a six-week comment window. It says in its own words that it is a north star, not a guarantee of present-day performance, and that no current model is trained on it. Pick the evidence you actually hold and see which of its 42 commitments you could ever catch a violation of.
+**[Quota Commons](https://github.com/kbipul/quota-commons)** — Whose request pays for whose retry when three consumers share one key?
 
-▶ **[Try it live](https://kbipul.github.io/conduct-gap/)**
+▶ **[Try it live](https://kbipul.github.io/quota-commons/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 036 | [Quota Commons](https://github.com/kbipul/quota-commons) | Whose request pays for whose retry when three consumers share one key? | [Live demo](https://kbipul.github.io/quota-commons/) | 2026-09-15 |
 | 035 | [Conduct Gap — The Rules Are Written Down. Which Ones Could You Ever Catch a Violation Of?](https://github.com/kbipul/conduct-gap) | Microsoft published a Code of Conduct for its MAI models on 14 September 2026 and opened a six-week comment window. It says in its own words that it is a north star, not a guarantee of present-day performance, and that no current model is trained on it. Pick the evidence you actually hold and see which of its 42 commitments you could ever catch a violation of. | [Live demo](https://kbipul.github.io/conduct-gap/) | 2026-09-15 |
 | 034 | [Harness Tell — Every Hub Request Says Which Agent Runs You. Sometimes It's Just Your Terminal.](https://github.com/kbipul/harness-tell) | Since 10 September 2026, huggingface_hub stamps agent/<harness> on every request to the Hub — decided by a list the client fetches from the Hub each day, not by code you can audit, and matched, for one entry, on your terminal emulator. Lay out your environment and see what leaves the process, in order, and which of the three kill switches actually stops it. | [Live demo](https://kbipul.github.io/harness-tell/) | 2026-09-14 |
 | 033 | [Second Tenant — Is Someone Else Spending Your API Key?](https://github.com/kbipul/second-tenant) |  | [Live demo](https://kbipul.github.io/second-tenant/) | 2026-09-13 |
@@ -52,10 +53,9 @@
 | 009 | [Open Model Passport — Can You Actually Ship This Model?](https://github.com/kbipul/open-model-passport) | Pick an AI model, declare what you intend to do with it, and get an instant shipping-clearance report — licence, weights, residency and EU AI Act exposure, with a source link on every claim. | [Live demo](https://kbipul.github.io/open-model-passport/) | 2026-07-15 |
 | 008 | [Prompt Router — Stop Sending Every Prompt to Your Most Expensive Model](https://github.com/kbipul/prompt-router) | Paste a day's worth of prompts and watch each one get routed to the cheapest model tier that can actually handle it — an embedding + feature classifier running 100% in your browser, with a live savings ledger. | [Live demo](https://kbipul.github.io/prompt-router/) | 2026-07-14 |
 | 007 | [MCP Auditor — Audit Your MCP Server Config Before Your Agent Does](https://github.com/kbipul/mcp-auditor) | Paste your Claude Desktop / Cursor / VS Code mcpServers config and get an instant security report: hardcoded secrets, unpinned remote execution, root filesystem access, and dangerous capability combos like filesystem+network exfiltration paths — 100% in your browser. | [Live demo](https://kbipul.github.io/mcp-auditor/) | 2026-07-13 |
-| 006 | [SkillScan — X-ray an AI Agent Skill Before You Install It](https://github.com/kbipul/skill-scan) | Paste any agent skill file and get an instant security report: prompt injection, data exfiltration, dangerous commands, permission creep and context cost — 100% in your browser. | [Live demo](https://kbipul.github.io/skill-scan/) | 2026-07-13 |
 
 
-_…and 5 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
+_…and 6 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
 
 
 ## 🧭 What this is
