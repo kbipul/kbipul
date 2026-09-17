@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-37-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-15_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-38-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-16_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 037
+## 🔴 Latest build — Day 038
 
-**[Alias Drift](https://github.com/kbipul/alias-drift)** — Is the model ID you call the model you get?
+**[Still Untrusted](https://github.com/kbipul/still-untrusted)** — One bad read taints the rest of the run. Nothing decays it automatically.
 
-▶ **[Try it live](https://kbipul.github.io/alias-drift/)**
+▶ **[Try it live](https://kbipul.github.io/still-untrusted/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 038 | [Still Untrusted](https://github.com/kbipul/still-untrusted) | One bad read taints the rest of the run. Nothing decays it automatically. | [Live demo](https://kbipul.github.io/still-untrusted/) | 2026-09-17 |
 | 037 | [Alias Drift](https://github.com/kbipul/alias-drift) | Is the model ID you call the model you get? | [Live demo](https://kbipul.github.io/alias-drift/) | 2026-09-16 |
 | 036 | [Quota Commons](https://github.com/kbipul/quota-commons) | Whose request pays for whose retry when three consumers share one key? | [Live demo](https://kbipul.github.io/quota-commons/) | 2026-09-15 |
 | 035 | [Conduct Gap — The Rules Are Written Down. Which Ones Could You Ever Catch a Violation Of?](https://github.com/kbipul/conduct-gap) | Microsoft published a Code of Conduct for its MAI models on 14 September 2026 and opened a six-week comment window. It says in its own words that it is a north star, not a guarantee of present-day performance, and that no current model is trained on it. Pick the evidence you actually hold and see which of its 42 commitments you could ever catch a violation of. | [Live demo](https://kbipul.github.io/conduct-gap/) | 2026-09-15 |
@@ -52,10 +53,9 @@
 | 011 | [Prompt Compressor — What Token Savings Actually Cost You](https://github.com/kbipul/prompt-compressor) | The most-starred AI coding skill on GitHub promises 65% fewer tokens. Paste your own text and measure what it actually saves — and what meaning it quietly drops. | [Live demo](https://kbipul.github.io/prompt-compressor/) | 2026-07-18 |
 | 010 | [Blast Radius — Simulate What That Command Destroys](https://github.com/kbipul/blast-radius) | Paste the command your agent wants to run and watch it destroy a virtual machine instead of yours — what dies, what comes back, and a safer way to say it. | [Live demo](https://kbipul.github.io/blast-radius/) | 2026-07-17 |
 | 009 | [Open Model Passport — Can You Actually Ship This Model?](https://github.com/kbipul/open-model-passport) | Pick an AI model, declare what you intend to do with it, and get an instant shipping-clearance report — licence, weights, residency and EU AI Act exposure, with a source link on every claim. | [Live demo](https://kbipul.github.io/open-model-passport/) | 2026-07-15 |
-| 008 | [Prompt Router — Stop Sending Every Prompt to Your Most Expensive Model](https://github.com/kbipul/prompt-router) | Paste a day's worth of prompts and watch each one get routed to the cheapest model tier that can actually handle it — an embedding + feature classifier running 100% in your browser, with a live savings ledger. | [Live demo](https://kbipul.github.io/prompt-router/) | 2026-07-14 |
 
 
-_…and 7 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
+_…and 8 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
 
 
 ## 🧭 What this is
