@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-39-9B0000?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-40-9B0000?style=for-the-badge)
 ![Current streak](https://img.shields.io/badge/current_streak-17_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 039
+## 🔴 Latest build — Day 040
 
-**[Ready for Disclosure](https://github.com/kbipul/disclosure-track)** — OpenAI just published the rule for when a misalignment incident goes out immediately. Run it.
+**[Last Record](https://github.com/kbipul/last-record)** — Cut the end off a hash-chained audit log and it still verifies.
 
-▶ **[Try it live](https://kbipul.github.io/disclosure-track/)**
+▶ **[Try it live](https://kbipul.github.io/last-record/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 040 | [Last Record](https://github.com/kbipul/last-record) | Cut the end off a hash-chained audit log and it still verifies. | [Live demo](https://kbipul.github.io/last-record/) | 2026-09-18 |
 | 039 | [Ready for Disclosure](https://github.com/kbipul/disclosure-track) | OpenAI just published the rule for when a misalignment incident goes out immediately. Run it. | [Live demo](https://kbipul.github.io/disclosure-track/) | 2026-09-18 |
 | 038 | [Still Untrusted](https://github.com/kbipul/still-untrusted) | One bad read taints the rest of the run. Nothing decays it automatically. | [Live demo](https://kbipul.github.io/still-untrusted/) | 2026-09-17 |
 | 037 | [Alias Drift](https://github.com/kbipul/alias-drift) | Is the model ID you call the model you get? | [Live demo](https://kbipul.github.io/alias-drift/) | 2026-09-16 |
@@ -52,10 +53,9 @@
 | 013 | [Hybrid Search — BM25 + Vectors, Fused with RRF](https://github.com/kbipul/hybrid-search-ts) | Watch a keyword ranker and a semantic ranker disagree on the same query, then fuse them with Reciprocal Rank Fusion into a list that is rarely wrong on either — 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/hybrid-search-ts/) | 2026-07-20 |
 | 012 | [Context Window Packer — Fit the Best Context Into N Tokens](https://github.com/kbipul/context-packer) | Inkling just shipped a 1M-token window — but you still can't afford to fill it with junk. Paste your sources, set a token budget, and watch a 0/1-knapsack packer choose the highest-value context that fits. | [Live demo](https://kbipul.github.io/context-packer/) | 2026-07-19 |
 | 011 | [Prompt Compressor — What Token Savings Actually Cost You](https://github.com/kbipul/prompt-compressor) | The most-starred AI coding skill on GitHub promises 65% fewer tokens. Paste your own text and measure what it actually saves — and what meaning it quietly drops. | [Live demo](https://kbipul.github.io/prompt-compressor/) | 2026-07-18 |
-| 010 | [Blast Radius — Simulate What That Command Destroys](https://github.com/kbipul/blast-radius) | Paste the command your agent wants to run and watch it destroy a virtual machine instead of yours — what dies, what comes back, and a safer way to say it. | [Live demo](https://kbipul.github.io/blast-radius/) | 2026-07-17 |
 
 
-_…and 9 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
+_…and 10 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
 
 
 ## 🧭 What this is
