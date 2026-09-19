@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-40-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-17_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-41-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-18_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 040
+## 🔴 Latest build — Day 041
 
-**[Last Record](https://github.com/kbipul/last-record)** — Cut the end off a hash-chained audit log and it still verifies.
+**[Oversight Gap](https://github.com/kbipul/oversight-gap)** — 100% coverage means every action was inspected. It does not mean every bad one was caught.
 
-▶ **[Try it live](https://kbipul.github.io/last-record/)**
+▶ **[Try it live](https://kbipul.github.io/oversight-gap/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 041 | [Oversight Gap](https://github.com/kbipul/oversight-gap) | 100% coverage means every action was inspected. It does not mean every bad one was caught. | [Live demo](https://kbipul.github.io/oversight-gap/) | 2026-09-19 |
 | 040 | [Last Record](https://github.com/kbipul/last-record) | Cut the end off a hash-chained audit log and it still verifies. | [Live demo](https://kbipul.github.io/last-record/) | 2026-09-18 |
 | 039 | [Ready for Disclosure](https://github.com/kbipul/disclosure-track) | OpenAI just published the rule for when a misalignment incident goes out immediately. Run it. | [Live demo](https://kbipul.github.io/disclosure-track/) | 2026-09-18 |
 | 038 | [Still Untrusted](https://github.com/kbipul/still-untrusted) | One bad read taints the rest of the run. Nothing decays it automatically. | [Live demo](https://kbipul.github.io/still-untrusted/) | 2026-09-17 |
@@ -52,10 +53,9 @@
 | 014 | [Bhasha Detect — Identify India's 22 Scheduled Languages In Your Browser](https://github.com/kbipul/bhasha-detect) | Paste text in any of India's 22 scheduled languages — plus Hinglish — and watch it get identified by Unicode script and character n-grams, with an honest confusion-matrix explorer. 100% client-side, no API key. | [Live demo](https://kbipul.github.io/bhasha-detect/) | 2026-07-21 |
 | 013 | [Hybrid Search — BM25 + Vectors, Fused with RRF](https://github.com/kbipul/hybrid-search-ts) | Watch a keyword ranker and a semantic ranker disagree on the same query, then fuse them with Reciprocal Rank Fusion into a list that is rarely wrong on either — 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/hybrid-search-ts/) | 2026-07-20 |
 | 012 | [Context Window Packer — Fit the Best Context Into N Tokens](https://github.com/kbipul/context-packer) | Inkling just shipped a 1M-token window — but you still can't afford to fill it with junk. Paste your sources, set a token budget, and watch a 0/1-knapsack packer choose the highest-value context that fits. | [Live demo](https://kbipul.github.io/context-packer/) | 2026-07-19 |
-| 011 | [Prompt Compressor — What Token Savings Actually Cost You](https://github.com/kbipul/prompt-compressor) | The most-starred AI coding skill on GitHub promises 65% fewer tokens. Paste your own text and measure what it actually saves — and what meaning it quietly drops. | [Live demo](https://kbipul.github.io/prompt-compressor/) | 2026-07-18 |
 
 
-_…and 10 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
+_…and 11 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
 
 
 ## 🧭 What this is
