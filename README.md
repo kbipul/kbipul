@@ -8,21 +8,22 @@
 
 [Website](https://www.kumarbipul.com) · [Daily Builds Hub](https://github.com/kbipul/kb-daily-builds)
 
-![Projects shipped](https://img.shields.io/badge/projects_shipped-41-9B0000?style=for-the-badge)
-![Current streak](https://img.shields.io/badge/current_streak-18_days-0A0A0A?style=for-the-badge)
+![Projects shipped](https://img.shields.io/badge/projects_shipped-42-9B0000?style=for-the-badge)
+![Current streak](https://img.shields.io/badge/current_streak-19_days-0A0A0A?style=for-the-badge)
 
 </div>
 
-## 🔴 Latest build — Day 041
+## 🔴 Latest build — Day 042
 
-**[Oversight Gap](https://github.com/kbipul/oversight-gap)** — 100% coverage means every action was inspected. It does not mean every bad one was caught.
+**[Consent Ledger](https://github.com/kbipul/consent-ledger)** — A yes to one purpose is not a yes to the pipeline behind it.
 
-▶ **[Try it live](https://kbipul.github.io/oversight-gap/)**
+▶ **[Try it live](https://kbipul.github.io/consent-ledger/)**
 
 ## 📅 The daily board (last 30 days)
 
 | Day | Project | What it does | Demo | Shipped |
 |----:|---------|--------------|------|---------|
+| 042 | [Consent Ledger](https://github.com/kbipul/consent-ledger) | A yes to one purpose is not a yes to the pipeline behind it. | [Live demo](https://kbipul.github.io/consent-ledger/) | 2026-09-20 |
 | 041 | [Oversight Gap](https://github.com/kbipul/oversight-gap) | 100% coverage means every action was inspected. It does not mean every bad one was caught. | [Live demo](https://kbipul.github.io/oversight-gap/) | 2026-09-19 |
 | 040 | [Last Record](https://github.com/kbipul/last-record) | Cut the end off a hash-chained audit log and it still verifies. | [Live demo](https://kbipul.github.io/last-record/) | 2026-09-18 |
 | 039 | [Ready for Disclosure](https://github.com/kbipul/disclosure-track) | OpenAI just published the rule for when a misalignment incident goes out immediately. Run it. | [Live demo](https://kbipul.github.io/disclosure-track/) | 2026-09-18 |
@@ -52,10 +53,9 @@
 | 015 | [Will It Fit? — Can You Actually Run That Open-Weight Model?](https://github.com/kbipul/will-it-fit) | Pick an open-weight LLM (Kimi K3, LongCat-2.0, GPT-OSS…), a quantization, and your GPU or Azure VM — instantly see if it fits in VRAM and how fast it decodes. 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/will-it-fit/) | 2026-07-22 |
 | 014 | [Bhasha Detect — Identify India's 22 Scheduled Languages In Your Browser](https://github.com/kbipul/bhasha-detect) | Paste text in any of India's 22 scheduled languages — plus Hinglish — and watch it get identified by Unicode script and character n-grams, with an honest confusion-matrix explorer. 100% client-side, no API key. | [Live demo](https://kbipul.github.io/bhasha-detect/) | 2026-07-21 |
 | 013 | [Hybrid Search — BM25 + Vectors, Fused with RRF](https://github.com/kbipul/hybrid-search-ts) | Watch a keyword ranker and a semantic ranker disagree on the same query, then fuse them with Reciprocal Rank Fusion into a list that is rarely wrong on either — 100% in your browser, no API key. | [Live demo](https://kbipul.github.io/hybrid-search-ts/) | 2026-07-20 |
-| 012 | [Context Window Packer — Fit the Best Context Into N Tokens](https://github.com/kbipul/context-packer) | Inkling just shipped a 1M-token window — but you still can't afford to fill it with junk. Paste your sources, set a token budget, and watch a 0/1-knapsack packer choose the highest-value context that fits. | [Live demo](https://kbipul.github.io/context-packer/) | 2026-07-19 |
 
 
-_…and 11 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
+_…and 12 more in the [full index](https://github.com/kbipul/kb-daily-builds)._
 
 
 ## 🧭 What this is
